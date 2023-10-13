@@ -1,20 +1,15 @@
 {
-  "posts":[
-    {
-    "id":1,
-    "title":"Good morning"
-    },
-    {
-    "id":2,
-    "title":"Buen dia"
-    },
-    {
-    "id":3,
-    "title":"Bonjour"
-    }
-    
-  ],
-  "profile":{
-    "name":"typicode"
-  }
+  "idCustomer": 0,
+  "firstName": "string",
+  "lastName": "string",
+  "companyName": "string",
+  "ivaCondition": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "address": "string",
+  "birthDate": "2023-10-13T14:43:37.716Z",
+  "documentType": "string",
+  "documentNumber": "32457394",
+  "customerType": "string",
+  "createdAt": "2023-10-13T14:43:37.718Z"
 }
