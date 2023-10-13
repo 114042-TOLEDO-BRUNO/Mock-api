@@ -1,15 +1,15 @@
 {
-  "idCustomer": 0,
-  "firstName": "string",
-  "lastName": "string",
+  "idCustomer": 1,
+  "firstName": "Bruno",
+  "lastName": "Toledo",
   "companyName": "string",
-  "ivaCondition": "string",
-  "email": "string",
-  "phoneNumber": "string",
-  "address": "string",
+  "ivaCondition": "Consumidor final",
+  "email": "vruno@gmail.com",
+  "phoneNumber": "35555555",
+  "address": "mesa y castro 2043",
   "birthDate": "2023-10-13T14:43:37.716Z",
   "documentType": "string",
   "documentNumber": "32457394",
-  "customerType": "string",
+  "customerType": "fisica",
   "createdAt": "2023-10-13T14:43:37.718Z"
 }
